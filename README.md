@@ -12,6 +12,9 @@ Blacino is designed to make recipe discovery simple and personalized. By combini
 
 Upload images of ingredients or dishes: Using YOLOv5, Blacino performs real-time ingredient detection, instantly recognizing items in your kitchen.
 
+![flying-sushi-pieces-placed-between-600nw-2277466479](https://github.com/user-attachments/assets/1c39717c-364b-476f-9506-c974cb558f40)
+
+
 Receive personalized recipe suggestions: Based on the detected ingredients and your dietary preferences, Blacino uses LangChain’s artificial intelligence recommendation engine to provide tailored recipe ideas.
 
 Benefit from intelligent recipe tagging: Recipes are automatically categorized (e.g., vegan, gluten-free, low-carb) based on ingredient recognition and nutritional analysis, making it easier to find what fits your needs.
