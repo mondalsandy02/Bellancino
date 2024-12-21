@@ -1,8 +1,7 @@
 # introducing Blacino personal cooking assistant with Advanced AI Features
 
   Introducing Blacino – the smart recipe provider that transforms your cooking experience. Powered by cutting-edge AI, Blacino offers personalized recipe recommendations, ingredient recognition, and intelligent tagging. Using advanced models like LangChain, TensorFlow, PyTorch, and YOLOv5, it processes real-time images and live video to identify ingredients and suggest recipes based on your preferences. With Blacino, cooking becomes simpler, smarter, and more enjoyable.
-  ![sushi-elegant-beautiful-fresh-japanese-culinary-art-free-photo](https://github.com/user-attachments/assets/e7f6a0b8-c7ea-4874-a898-742ee37f238c) ![flying-sushi-pieces-placed-between-600nw-2277466479](https://github.com/user-attachments/assets/1c39717c-364b-476f-9506-c974cb558f40)
-  
+![IMG_20241222_024433](https://github.com/user-attachments/assets/3355e327-a9b6-4527-810f-ffbf3ab1584b)
 
 *Developed by Sandip.*
 
