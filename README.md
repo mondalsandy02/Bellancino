@@ -41,7 +41,7 @@ Enjoy an interactive experience: Built with React, Blacino offers smooth navigat
 - **Database:** MongoDB or PostgreSQL for storing recipes, user data, and AI-generated recommendations.
 - **API Communication:** RESTful API for seamless interaction between the frontend and backend.
 
-## How It Works
+## Features
 
 The application integrates various AI models into a complex but efficient pipeline. Here's how the main components interact:
 
