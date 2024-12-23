@@ -9,7 +9,7 @@ from flask import Flask, jsonify, request, send_file, send_from_directory
 # Get your Gemini API key by:
 # - Selecting "Add Gemini API" in the "Project IDX" panel in the sidebar
 # - Or by visiting https://g.co/ai/idxGetGeminiKey
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCdDvG-ANswxFKXE9K6dCLvl3U_yyq7HG0" ;
+os.environ["GOOGLE_API_KEY"] = "XYZ(API KEY)" ;
 
 app = Flask(__name__)
 
