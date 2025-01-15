@@ -25,9 +25,9 @@ Enjoy an interactive experience: Built with React, Blacino offers smooth navigat
 ## Key Features
 
 - **AI-Powered Recipe Recommendations:** LangChain's AI model analyzes user preferences and suggests recipes tailored to dietary restrictions, past choices, and ingredient availability.
-- **Ingredient Recognition via YOLOv5:** Upload images of food or ingredients, and the app uses YOLOv5's object detection to identify items in the image, such as vegetables, fruits, meats, and more.
-- **Smart Recipe Tagging & Filtering(comming soon..):** Recipes are automatically tagged based on detected ingredients (e.g., "vegan," "high-protein," "low-carb"), allowing users to filter recipes according to their dietary needs.
-- **Advanced Image Processing(coming soon..):** TensorFlow and PyTorch are used for deeper analysis of the ingredients, such as categorizing them into broader food groups (e.g., dairy, grains) and estimating nutritional content.
+- **Ingredient Recognition via YOLOv5 (comming soon..):** Upload images of food or ingredients, and the app uses YOLOv5's object detection to identify items in the image, such as vegetables, fruits, meats, and more.
+- **Smart Recipe Tagging & Filtering (comming soon..):** Recipes are automatically tagged based on detected ingredients (e.g., "vegan," "high-protein," "low-carb"), allowing users to filter recipes according to their dietary needs.
+- **Advanced Image Processing (coming soon..):** TensorFlow and PyTorch are used for deeper analysis of the ingredients, such as categorizing them into broader food groups (e.g., dairy, grains) and estimating nutritional content.
 - **Interactive UI Built with React:** A responsive, modern interface that allows users to easily interact with the application, upload images, browse recipes, and view suggestions.
 
 ## Technologies Used
