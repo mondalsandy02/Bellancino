@@ -33,11 +33,11 @@ Enjoy an interactive experience: Built with React, Blacino offers smooth navigat
 ## Technologies Used
 
 - **Frontend:** React (JavaScript), CSS3, Axios for API calls
-- **Backend:** Python (Flask, FastAPI, / Django), TensorFlow, PyTorch, YOLOv5, LangChain
+- **Backend:** Python (Flask, FastAPI), TensorFlow, PyTorch, YOLOv5, LangChain
 - **AI Models:**
   - **LangChain:** Provides AI-driven, personalized recipe suggestions by analyzing user preferences and available ingredients.
   - **YOLOv5 (You Only Look Once):** Detects and identifies ingredients in images in real-time.
-  - **TensorFlow/PyTorch:** Used for image classification, ingredient categorization, and nutritional analysis.
+  - **TensorFlow & PyTorch:** Used for image classification, ingredient categorization, and nutritional analysis.
 - **Database:** MongoDB or PostgreSQL for storing recipes, user data, and AI-generated recommendations.
 - **API Communication:** RESTful API for seamless interaction between the frontend and backend.
 
